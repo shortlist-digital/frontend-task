@@ -18,4 +18,6 @@ The component should render a text input, which on input should render a list of
 
 We're mostly interested in how you fetch data, handle potential pitfalls and render the results in a legible way.
 
+Above all, have some fun with it - and use it as an opportunity to show us what you can do.
 
+Best of luck!
