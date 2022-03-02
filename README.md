@@ -1,7 +1,7 @@
 # Stylist frontend task
 To get to know you a little better, we would like you to build a small component utilising our GraphQL endpoint (it’s still very much a WIP so be open-minded). It should be a fun exercise - don't worry too much about prettifying the UI. 
 
-This repo has been created for you to make life a little easier, as we're aware code tests can be rather arduous. It also includes an small data fetch example at `/example`.
+This repo has been created for you to make life a little easier, as we're aware code tests can be rather arduous. It also includes a small data fetch example at `/example`.
 
 Please fork this repository and when you're ready to submit it email the link to tom.reeves@stylist.co.uk and david.hayter@stylist.co.uk.
 
