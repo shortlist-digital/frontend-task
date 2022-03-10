@@ -3,7 +3,7 @@ To get to know you a little better, we would like you to build a small component
 
 This repo has been created for you to make life a little easier, as we're aware code tests can be rather arduous. It also includes a small data fetch example at `/example`.
 
-Please fork this repository and when you're ready to submit it email the link to tom.reeves@stylist.co.uk and david.hayter@stylist.co.uk.
+Please fork this repository and when you're ready to submit it email the link to kahti.demba@stylist.co.uk and david.hayter@stylist.co.uk.
 
 To run: ```npm i``` and ```npm run dev```. Please use Node > v14.
 
